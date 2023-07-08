@@ -1,0 +1,40 @@
+Day 1:
+
+Small Project: Dataset Exploration and Cleaning
+
+Dataset: Titanic: Machine Learning from Disaster - Kaggle (https://www.kaggle.com/c/titanic/data) "smartCard-inline")
+
+datasets are attached in the attachment
+
+Project Description: Explore the Titanic dataset, understand the variables, and identify missing values.
+
+Project Goals: Familiarize yourself with the dataset structure, identify data cleaning requirements, and document initial observations.
+
+Expected Output: Summary of dataset variables, identification of missing values, and initial insights.
+
+Assignment: Perform data cleaning and preprocessing on a given dataset.
+
+Step 1: Remove duplicates from the dataset.
+
+Step 2: Handle missing values by imputing or removing them.
+
+Step 3: Check and handle outliers in the data.
+
+Step 4: Normalize or standardize numerical features.
+
+Step 5: Encode categorical variables.
+Interview questions and answers:
+
+Q1: What is data cleaning, and why is it important?A1: Data cleaning refers to the process of identifying and correcting or removing errors, inconsistencies, and inaccuracies in a dataset. It is important because it ensures the quality and reliability of the data used for analysis.
+
+Q2: What are some common data cleaning techniques?A2: Some common data cleaning techniques include handling missing values, removing duplicates, dealing with outliers, correcting inconsistent data, and standardizing data formats.
+
+Q3: How do you handle missing values in a dataset?A3: Missing values can be handled by imputing them with mean, median, or mode values, using predictive models, or removing the rows or columns with missing values depending on the context.
+
+Q4: What is the purpose of outlier detection, and how can it be performed?A4: Outlier detection helps identify unusual or extreme observations in a dataset. It can be performed using statistical methods like the z-score, IQR (interquartile range), or visualization techniques like box plots or scatter plots.
+
+Q5: Explain the concept of feature scaling.A5: Feature scaling is the process of standardizing or normalizing numerical features to a common scale to ensure they have a similar impact on the analysis or modeling algorithms.
+
+
+
+Basic definitions and terms:- Missing values: Values that are absent or unavailable in a dataset.- Outlier detection: The process of identifying extreme or unusual observations in a dataset.- Feature scaling: Rescaling numerical features to a common scale.- Data cleaning: The process of identifying and correcting errors, inconsistencies, and inaccuracies in a dataset.- Preprocessing: The steps taken to transform raw data into a suitable format for analysis or modeling.
